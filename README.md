@@ -1,6 +1,6 @@
 # 🎨 DESIGN PATTERN :Template Method 📚
 
-**The Template Method** design pattern is to define an algorithm as a skeleton of operations and leave the details to be implemented by the child classes. The overall structure and sequence of the algorithm are preserved by the parent class [More...](https://www.geeksforgeeks.org/template-method-design-pattern/) 
+💡 Pour plus d'informations sur le design pattern **Template Method** veillez consultez le document TemplateMethode.pdf  
 
 ___
 
