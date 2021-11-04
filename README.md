@@ -1,6 +1,8 @@
 # 🎨 DESIGN PATTERN :Template Method 📚
 
-💡 Pour plus d'informations sur le design pattern **Template Method** veillez consultez le document TemplateMethode.pdf  
+Patron de Méthode est un patron de conception comportemental qui permet de mettre le squelette d’un algorithme dans la classe mère, mais laisse les sous-classes redéfinir certaines étapes de l’algorithme sans changer sa structure  
+💡Pour plus d'informations sur le design pattern **Template Method** veillez consultez le document
+   TemplateMethode.pdf  
 
 ___
 
